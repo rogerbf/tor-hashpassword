@@ -19,6 +19,10 @@
     "password",
     "hash"
   ],
+  "files": [
+    "index.js",
+    "README.md"
+  ],
   "bugs": {
     "url": "https://github.com/rogerbf/tor-hashpassword/issues"
   },
