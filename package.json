@@ -1,11 +1,26 @@
 {
   "name": "tor-hashpassword",
   "version": "0.0.1",
-  "description": "",
+  "description": "hash the control port password",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rogerbf <roger@bergfalk.nu> (http://bergfalk.nu/)",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerbf/tor-hashpassword.git"
+  },
+  "keywords": [
+    "tor",
+    "controlport",
+    "control port",
+    "password",
+    "hash"
+  ],
+  "bugs": {
+    "url": "https://github.com/rogerbf/tor-hashpassword/issues"
+  },
+  "homepage": "https://github.com/rogerbf/tor-hashpassword#readme"
 }
