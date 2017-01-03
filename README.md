@@ -1,6 +1,6 @@
 # tor-hashpassword
 
-Hash control port password.
+Hash the control port password.
 
 ## usage
 
