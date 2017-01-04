@@ -1,6 +1,6 @@
 {
   "name": "tor-hashpassword",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "hash the control port password",
   "main": "index.js",
   "scripts": {
